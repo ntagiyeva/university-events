@@ -1,0 +1,19 @@
+test_auth_csrf (test_app.SystemTests.test_auth_csrf) ... ok
+test_capacity_and_update (test_app.SystemTests.test_capacity_and_update) ... ok
+test_concurrent_last_place (test_app.SystemTests.test_concurrent_last_place) ... ok
+test_crud (test_app.SystemTests.test_crud) ... ok
+test_csv_formula_escape (test_app.SystemTests.test_csv_formula_escape) ... ok
+test_database_constraints (test_app.SystemTests.test_database_constraints) ... ok
+test_filters (test_app.SystemTests.test_filters) ... ok
+test_frontend_headers (test_app.SystemTests.test_frontend_headers) ... ok
+test_invalid_fields (test_app.SystemTests.test_invalid_fields) ... ok
+test_missing_and_invalid_json (test_app.SystemTests.test_missing_and_invalid_json) ... ok
+test_past_event (test_app.SystemTests.test_past_event) ... ok
+test_registration_duplicate_cancel (test_app.SystemTests.test_registration_duplicate_cancel) ... ok
+test_signup (test_app.SystemTests.test_signup) ... ok
+test_stats_export_cascade (test_app.SystemTests.test_stats_export_cascade) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 7.152s
+
+OK
